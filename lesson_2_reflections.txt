@@ -15,3 +15,6 @@ We can see what we can reach from one point of specific branch.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 One branch is merged into the main branch. To see the structure of branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+The former sometimes may cause conficts and the latter may require extra work.
