@@ -9,3 +9,6 @@ Adding one logical change to the staging area at one time.
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When we need to test some features that are not yet offically ready to be announced.
+
+How do the diagrams help you visualize the branch structure?
+We can see what we can reach from one point of specific branch.
