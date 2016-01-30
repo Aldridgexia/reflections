@@ -19,5 +19,3 @@ I can switch back to wherever I want to ensure my control over everything.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 Create my own repository.
-
-haha.
