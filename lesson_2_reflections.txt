@@ -3,3 +3,6 @@ A .git file is added to the directory. Since I want to track every change I woul
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 I have no idea yet.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Adding one logical change to the staging area at one time.
