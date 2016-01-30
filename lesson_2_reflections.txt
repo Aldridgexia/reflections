@@ -12,3 +12,6 @@ When we need to test some features that are not yet offically ready to be announ
 
 How do the diagrams help you visualize the branch structure?
 We can see what we can reach from one point of specific branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+One branch is merged into the main branch. To see the structure of branches.
